@@ -1,0 +1,2 @@
+This folder includes some publicaly available statistics, some of them from the ONS website. 
+Files: "Home Geography Table 8.7a   Annual pay - Gross 2022.xls"
